@@ -2,8 +2,11 @@
  
 
 git clone https://github.com/typotyp/recodegapapa
+
 cd recodegapapa
+
 ls
+
 python men.py
 
 #Selamat Mencoba
