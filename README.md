@@ -1,5 +1,4 @@
-# recodegapapa Ricode dikit ngaruh 😂
- 
+# recodegapapa Ricode dikit ngaruh 😂 1HR
 
 git clone https://github.com/typotyp/recodegapapa
 
